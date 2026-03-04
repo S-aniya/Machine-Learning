@@ -1,0 +1,8 @@
+Day,Temperature,Humidity,Windy
+Mon,72.0,80.0,True
+Tue,,85.0,False
+Wed,75.0,,True
+Thu,80.0,90.0,
+Fri,,88.0,False
+Sat,77.0,,True
+Sun,78.0,82.0,
